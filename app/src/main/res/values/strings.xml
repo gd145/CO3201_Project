@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HamzaFood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="City">
+        <item>London</item>
+        <item>Manchester</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Shepherd's Pie</item>
+        <item>Mushroom Soup</item>
+        <item>Beef Wellington</item>
+        <item>Fish and Chips</item>
+        <item>Chicken Tikka Masala</item>
+        <item>Steak and Kidney Pie</item>
+        <item>Eton Mess</item>
+        <item>Afternoon Tea</item>
+        <item>Cornish Pasty</item>
+        <item>A Full Breakfast</item>
+        <item>Roast Dinner</item>
+        <item>Fresh Salad</item>
+        <item>Fresh Juice</item>
+        <item>Chicken Stew and Rice</item>
+    </string-array>
+</resources>

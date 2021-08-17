@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Demail" type="id">email</item>
+    <item name="Dpassword" type="id">passwoed</item>
+    <item name="Loginbtn" type="id">login</item>
+    <item name="Dforgotpass" type="id">forgotpassword</item>
+    <item name="Dbtnphone" type="id">phone</item>
+    <item name="donot" type="id">dont</item>
+</resources>
